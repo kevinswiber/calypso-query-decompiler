@@ -1,6 +1,6 @@
 {
   "name": "calypso-query-decompiler",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Decompiles Calypso Query objects into CaQL queries.",
   "main": "decompiler.js",
   "directories": {
